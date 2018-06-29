@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-06-28T22:16:29-04:00
-draft: true
+draft: false
 ---
 This is a wedding dude.
 

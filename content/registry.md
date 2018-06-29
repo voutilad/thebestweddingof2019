@@ -1,7 +1,7 @@
 ---
 title: "Registry"
 date: 2018-06-28T22:15:58-04:00
-draft: true
+draft: false
 ---
 We're registered at...
 
