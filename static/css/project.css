@@ -1,4 +1,17 @@
+/*
 #main article {
-        background-color: rgba(89, 64, 50, 0.85);
-    }
+	background-color: rgba(89, 64, 50, 0.85);
+}
+*/
 
+body, input, select, textarea {
+	font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+
+#bg:before {
+	background-image: linear-gradient(to top, rgba(19, 21, 25, 0.85), rgba(19, 21, 25, 0.95)), url("/images/overlay.png")
+}
+
+#bg:after {
+	background-image: url("/images/freestyle.jpg");
+}

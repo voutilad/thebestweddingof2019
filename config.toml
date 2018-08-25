@@ -5,6 +5,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+static = ["static"]
 
 [params]
   description = "Adrienne and Dave are getting married!"
@@ -29,7 +30,7 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/voutilad/thebestweddingof2019"
 
 [languages]
 [languages.en]
