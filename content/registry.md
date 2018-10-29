@@ -1,10 +1,9 @@
 ---
-title: "Registry"
-date: 2018-06-28T22:15:58-04:00
+title: "Our Registry"
+date: 2018-10-28
 draft: false
+weight: 10
 ---
-We're registered at...
+We're registered at the following places!
 
-* Amazon.com
-* Yourmom.NET
-
+* Our [Amazon.com Wedding Registry](https://www.amazon.com/wedding/share/adrienneanddave)

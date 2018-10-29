@@ -1,17 +1,16 @@
-/*
-#main article {
-	background-color: rgba(89, 64, 50, 0.85);
-}
-*/
-
 body, input, select, textarea {
-	font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 350;
+}
+
+.copyright {
+    font-weight: 350;
 }
 
 #bg:before {
-	background-image: linear-gradient(to top, rgba(19, 21, 25, 0.85), rgba(19, 21, 25, 0.95)), url("/images/overlay.png")
+	background-image: linear-gradient(to top, rgba(19, 21, 25, 0.75), rgba(19, 21, 25, 0.85)), url("/images/overlay.png")
 }
 
 #bg:after {
-	background-image: url("/images/freestyle.jpg");
+	background-image: url("/images/waterville-trail-map-resized.jpg");
 }
