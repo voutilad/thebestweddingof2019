@@ -8,4 +8,4 @@ weight: 3
 
 **Mathew Densmore** ("MattyD"): Yet another WPI and Alpha Chi Rho alum, Matty typically organized a lot of the activities so this wedding is the rare occasion he's not involved in planning. Having left the harsh New England weather behind and retreating to Pasadena, he's also probably traveling the furthest to the wedding!
 
-**TBA**: Mystery Man! Shhhh...Dave's still to ask him.
+**Reid Craig**: ("Reid"): Reid and Dave met when Dave was interviewing for a new job back in the 2008 timeframe. Over the years, they've shared various adventures from a rather wild time in Tampa to the horrors of business travel. (It's hard to believe, but Reid didn't go to WPI!) Reid's basicaly the big brother Dave never had, not counting Dave's fraternity big brother, of course ;-)
